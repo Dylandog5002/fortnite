@@ -28,7 +28,7 @@ header {
     background-color: #922B21;
    min-height: 250px;
      text-align:center;
-	padding: 20em;
+	padding: 10px;
 }
 
 header h1 {
@@ -39,7 +39,7 @@ header h1 {
     margin-bottom: -.6em;
      color:black;
      text-align:center;
-		padding: 20em;
+		padding: 10px;
 }
 
 header h2 {
@@ -53,7 +53,7 @@ header h2 {
         2px -2px 5px #11181E,
         -2px 2px 5px #11181E,
         2px 2px 5px #11181E;
-		padding: 20em;
+		padding: 10px;
 }
 
 .firstE {
